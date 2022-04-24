@@ -1,0 +1,24 @@
+mi V/S csk
+mi:
+1. rohit sharma
+2. ishan kishan
+3. jasprit bumrha
+4. kiren pollard
+5. surya yadav
+
+csk:
+1. ms dhoni
+2. suresh raina
+3. virat kohli
+4. ravindra jadeja
+5. dwane bravo
+-----------------Team1--------------
+
+(playerNumber, Runs, Balls, Out or not, type of ball)
+1 4 5 0 1 
+1 0 5 0 2 
+1 0 5 1 1 
+-----------------Team2--------------
+
+(playerNumber, Runs, Balls, Out or not, type of ball)
+1 6 4 0 1 
